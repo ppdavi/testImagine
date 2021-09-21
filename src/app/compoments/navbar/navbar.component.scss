@@ -1,0 +1,19 @@
+.navbar-header {
+    justify-content: space-between;
+}
+.container {
+    display: inline-flex;
+}
+.row1 {
+    width: 30%;
+    z-index:1;
+}
+.row2 {
+    transform: translateX(-100px);;
+}
+.font-title {
+    font-size: 20px;
+}
+.font {
+    font-size: 15px;
+}
